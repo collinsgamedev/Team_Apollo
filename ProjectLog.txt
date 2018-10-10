@@ -9,3 +9,6 @@ Alyssa - edited the project log
 Alyssa - added documentation to aabox2d.cc
 Eddie & Ren - performed more tests on the simulation
 
+October 10, 2018 - 4:40 PM
+Alyssa - modified code in guardian module - changed safety steering rate to 20 percent, was originally 0, had been altered to 25, lowered to 20 for safety
+
