@@ -23,5 +23,5 @@ Alyssa - modified test plan
 Ethan - ran straight in a through lane simulation
 Eddie - performed Worldsim simulation testing
 Ren - performed Logsim simulation testing
-
+Alyssa - edited README.md file to include more information about files in team repo
 
