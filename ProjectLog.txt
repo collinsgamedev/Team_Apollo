@@ -1,12 +1,14 @@
-October 8, 2018 (6:00 - 7:40 PM)
 ------------------------------------------------------------
-Alyssa - Left turn @ intersection test (passed)
 Running Total of Lines of Code Added/Insertions Made
+------------------------------------------------------------
 Ethan: 5 
 Alyssa: 64
 Eddie: 
 Ren:
 ------------------------------------------------------------
+October 8, 2018 (6:00 - 7:40 PM)
+------------------------------------------------------------
+Alyssa - Left turn @ intersection test (passed)
 Ethan - Right turn @ intersection test (passed)
 Eddie - U-turn @ intersection test (passed)
 Ren - traveling straight in a through lane test (FAILED - 1/25)
@@ -14,12 +16,12 @@ Ethan - started forming the test plan
 Alyssa - edited the project log
 Alyssa - added documentation to aabox2d.cc
 Eddie & Ren - performed more tests on the simulation
-
+------------------------------------------------------------
 October 10, 2018 (4:40 - 5:00 PM)
 ------------------------------------------------------------
 Alyssa - modified code in guardian module - changed safety steering rate to 20 percent, was originally 0, had been altered to 25, lowered to 20 for safety
 Alyssa - added some comments/documentation to feature_descriptor.h file in perception module
-
+------------------------------------------------------------
 October 15, 2018 (6:00 - 7:30 PM)
 ------------------------------------------------------------
 Alyssa - modified navi_planning.cc - added documentation
