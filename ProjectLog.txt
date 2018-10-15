@@ -14,3 +14,14 @@ October 10, 2018 (4:40 - 5:00 PM)
 Alyssa - modified code in guardian module - changed safety steering rate to 20 percent, was originally 0, had been altered to 25, lowered to 20 for safety
 Alyssa - added some comments/documentation to feature_descriptor.h file in perception module
 
+October 15, 2018 (6:00 - 7:30 PM)
+------------------------------------------------------------
+Alyssa - modified navi_planning.cc - added documentation
+Ethan - finished out and pushed the test plan up
+All members - read through updated test plan
+Alyssa - modified test plan
+Ethan - ran straight in a through lane simulation
+Eddie - performed Worldsim simulation testing
+Ren - performed Logsim simulation testing
+
+
