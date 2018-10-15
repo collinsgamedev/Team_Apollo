@@ -1,6 +1,12 @@
 October 8, 2018 (6:00 - 7:40 PM)
 ------------------------------------------------------------
 Alyssa - Left turn @ intersection test (passed)
+Running Total of Lines of Code Added/Insertions Made
+Ethan: 5 
+Alyssa: 64
+Eddie: 
+Ren:
+------------------------------------------------------------
 Ethan - Right turn @ intersection test (passed)
 Eddie - U-turn @ intersection test (passed)
 Ren - traveling straight in a through lane test (FAILED - 1/25)
@@ -24,4 +30,8 @@ Ethan - ran straight in a through lane simulation
 Eddie - performed Worldsim simulation testing
 Ren - performed Logsim simulation testing
 Alyssa - edited README.md file to include more information about files in team repo
+Ethan - edited guardian.cc with comments
+Alyssa - edited prediction_test.cc with comments
+Ethan - added comments in localization folder
+Eddie - added comments/doxygen documentation to third party perception file - fusion.cc
 
