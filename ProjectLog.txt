@@ -4,7 +4,7 @@ Running Total of Lines of Code Added/Insertions Made
 Ethan: 5 
 Alyssa: 64
 Eddie: 
-Ren:
+Ren: 11
 ------------------------------------------------------------
 October 8, 2018 (6:00 - 7:40 PM)
 ------------------------------------------------------------
@@ -36,4 +36,5 @@ Ethan - edited guardian.cc with comments
 Alyssa - edited prediction_test.cc with comments
 Ethan - added comments in localization folder
 Eddie - added comments/doxygen documentation to third party perception file - fusion.cc
+Ren - added comments in control module
 
