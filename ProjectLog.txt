@@ -1,7 +1,7 @@
 ------------------------------------------------------------
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
-Ethan: 47
+Ethan: 56
 Alyssa: 89
 Eddie: 38 
 Ren: 11
@@ -46,3 +46,4 @@ Ethan - Added 6 lines of Doxygen documentation to lidar_ex_checker.cc
 Ethan - Added 3 lines of Doxygen documentation to republish_msg.cc
 Alyssa - Added documentation to Ion_controller.cc
 Eddie - Added documentation to byte.cc 
+Ethan - Added documentation to control.cc
