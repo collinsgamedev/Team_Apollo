@@ -37,4 +37,8 @@ Alyssa - edited prediction_test.cc with comments
 Ethan - added comments in localization folder
 Eddie - added comments/doxygen documentation to third party perception file - fusion.cc
 Ren - added comments in control module
+------------------------------------------------------------
+October 22, 2018 (6:00 - 7:30 PM)
+------------------------------------------------------------
+Alyssa - Ran the lane-change in a through lane test and left-turn at an intersection test, and reported it in the test plan
 
