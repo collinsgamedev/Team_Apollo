@@ -2,7 +2,7 @@
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
 Ethan: 38
-Alyssa: 64
+Alyssa: 74
 Eddie: 11 
 Ren: 11
 ------------------------------------------------------------
@@ -41,4 +41,5 @@ Ren - added comments in control module
 October 22, 2018 (6:00 - 7:30 PM)
 ------------------------------------------------------------
 Alyssa - Ran the lane-change in a through lane test and left-turn at an intersection test, and reported it in the test plan
+Alyssa - added documentation to terminal.cc
 
