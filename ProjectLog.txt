@@ -4,7 +4,7 @@ Running Total of Lines of Code Added/Insertions Made
 Ethan: 53
 Alyssa: 110
 Eddie: 38 
-Ren: 11
+Ren: 94
 ------------------------------------------------------------
 October 8, 2018 (6:00 - 7:40 PM)
 ------------------------------------------------------------
