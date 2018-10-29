@@ -1,8 +1,8 @@
 ------------------------------------------------------------
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
-Ethan: 56
-Alyssa: 89
+Ethan: 47
+Alyssa: 110
 Eddie: 38 
 Ren: 11
 ------------------------------------------------------------
@@ -46,4 +46,10 @@ Ethan - Added 6 lines of Doxygen documentation to lidar_ex_checker.cc
 Ethan - Added 3 lines of Doxygen documentation to republish_msg.cc
 Alyssa - Added documentation to Ion_controller.cc
 Eddie - Added documentation to byte.cc 
-Ethan - Added documentation to control.cc
+------------------------------------------------------------
+October 29, 2018 (6:00 - 7:30 PM)
+All - worked on powerpoint for milestone two
+Alyssa - posted our live demo to Piazza, performed cppcheck in math folder
+All - worked on Google Test Framework
+Ren - uploaded makefile attempt to Team Apollo Repo
+
