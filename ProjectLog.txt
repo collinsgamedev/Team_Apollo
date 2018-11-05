@@ -2,7 +2,7 @@
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
 Ethan: 53
-Alyssa: 110
+Alyssa: 116
 Eddie: 38 
 Ren: 94
 ------------------------------------------------------------
@@ -59,3 +59,4 @@ November 5, 2018 (6:00 - 7:30 PM)
 Alyssa - uploaded project to Travis and Coverity
 Alyssa - Google test framework on planning
 Ethan - tested framework edits
+Eddie - Google test framework changes on navi
