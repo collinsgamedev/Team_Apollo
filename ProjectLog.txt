@@ -48,8 +48,14 @@ Alyssa - Added documentation to Ion_controller.cc
 Eddie - Added documentation to byte.cc 
 ------------------------------------------------------------
 October 29, 2018 (6:00 - 7:30 PM)
+------------------------------------------------------------
 All - worked on powerpoint for milestone two
 Alyssa - posted our live demo to Piazza, performed cppcheck in math folder
 All - worked on Google Test Framework
 Ren - uploaded makefile attempt to Team Apollo Repo
-
+------------------------------------------------------------
+November 5, 2018 (6:00 - 7:30 PM)
+------------------------------------------------------------
+Alyssa - uploaded project to Travis and Coverity
+Alyssa - Google test framework on planning
+Ethan - tested framework edits
