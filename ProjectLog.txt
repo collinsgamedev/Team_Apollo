@@ -60,3 +60,5 @@ Alyssa - uploaded project to Travis and Coverity
 Alyssa - Google test framework on planning
 Ethan - tested framework edits
 Eddie - Google test framework changes on navi
+Alyssa - explored the modules/common readme file and found module definitions
+Alyssa - added google test framework to perception.cc
