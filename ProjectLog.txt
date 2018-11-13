@@ -2,7 +2,7 @@
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
 Ethan: 62
-Alyssa: 116
+Alyssa: 121
 Eddie: 52 
 Ren: 94
 ------------------------------------------------------------
@@ -66,4 +66,6 @@ Alyssa - added google test framework to perception.cc
 November 12, 2018 (1:30 - 3:00 PM)
 ------------------------------------------------------------
 All - Completed PowerPoint for Milestone Three Submission
-Alyssa - added Google Test to guardian initialization
+Alyssa - added Google Test to guardian.cc file - initialization function
+Eddie - added documentation to event_collector_main.cc
+Ethan - added google testing to control.cc
