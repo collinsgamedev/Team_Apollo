@@ -62,3 +62,7 @@ Ethan - tested framework edits
 Eddie - Google test framework changes on navi
 Alyssa - explored the modules/common readme file and found module definitions
 Alyssa - added google test framework to perception.cc
+------------------------------------------------------------
+November 12, 2018 (1:30 - 3:00 PM)
+------------------------------------------------------------
+All - Completed PowerPoint for Milestone Three Submission
