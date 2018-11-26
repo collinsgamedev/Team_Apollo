@@ -1,7 +1,7 @@
 ------------------------------------------------------------
 Running Total of Lines of Code Added/Insertions Made
 ------------------------------------------------------------
-Ethan: 74
+Ethan: 75
 Alyssa: 121
 Eddie: 68 
 Ren: 94
