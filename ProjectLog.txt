@@ -69,3 +69,7 @@ All - Completed PowerPoint for Milestone Three Submission
 Alyssa - added Google Test to guardian.cc file - initialization function
 Eddie - added documentation to event_collector_main.cc
 Ethan - added google testing to control.cc
+------------------------------------------------------------
+November 26, 2018 (6:00 - 7:30 PM)
+------------------------------------------------------------
+All - worked on powerpoint for final milestone, worked on flowcharts, worked on test plan, worked on final live simulation video, performed more testing
